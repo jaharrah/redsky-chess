@@ -1,0 +1,16 @@
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/RookTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/ValidatorFactoryTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/BishopTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/BishopValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/KnightValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/ValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/PawnValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/service/ChessServiceImplTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/KingValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/PieceTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/QueenValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/validator/RookValidatorTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/KnightTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/KingTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/PawnTest.java
+/Users/jonaharrah/dev/redsky/chess/src/test/java/com/redsky/chess/model/pieces/QueenTest.java

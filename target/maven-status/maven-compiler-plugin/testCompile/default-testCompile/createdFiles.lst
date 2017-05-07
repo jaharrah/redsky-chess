@@ -1,0 +1,16 @@
+com/redsky/chess/validator/KingValidatorTest.class
+com/redsky/chess/model/pieces/RookTest.class
+com/redsky/chess/model/pieces/KingTest.class
+com/redsky/chess/service/ChessServiceImplTest.class
+com/redsky/chess/model/pieces/PawnTest.class
+com/redsky/chess/validator/QueenValidatorTest.class
+com/redsky/chess/validator/ValidatorFactoryTest.class
+com/redsky/chess/validator/RookValidatorTest.class
+com/redsky/chess/validator/KnightValidatorTest.class
+com/redsky/chess/model/pieces/KnightTest.class
+com/redsky/chess/model/pieces/PieceTest.class
+com/redsky/chess/validator/PawnValidatorTest.class
+com/redsky/chess/validator/BishopValidatorTest.class
+com/redsky/chess/model/pieces/BishopTest.class
+com/redsky/chess/model/pieces/QueenTest.class
+com/redsky/chess/validator/ValidatorTest.class
