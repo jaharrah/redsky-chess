@@ -12,6 +12,10 @@ The code is hosted in a Spring Boot implementation, and is built using Maven.
 Setup
 ---------
 
+To get the project, you need to install git on your local machine, and run the command (in the directory that you want to have the repository downloaded to):
+
+	git clone https://github.com/jaharrah/redsky-chess
+
 The ouputted JAR from running Maven install is available in the /target directory, chess-1.0.0.jar.  Assuming you have Java installed you can call
 
 	java -jar <directory the jar is located on your machine>/chess-1.0.0.jar
@@ -38,7 +42,7 @@ To make a move on the board, that can be done by making a call like:
 
 	POST http://localhost:8080/chess/move?col1=<a-f>&row1=<1-8>&col2=<a-f>&row2=<1-8>
 
-I have the column indicators as a through f, and row indicators as 1 through 8.  If the coordinate parameters are not populated properly, or the move is not valid, the web service call will return a 400.  Otherwise, the service will return a 200, with a response of "Done."
+I have the column indicators as a through f, and row indicators as 1 through 8.  If the coordinate parameters are not populated properly, or the move is not valid, the web service call will return a 400, with a response of why the movement did not happen.  Otherwise, the service will return a 200, with a response of "Done."
 
 To show the current board status, you can make the call:
 
