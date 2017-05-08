@@ -35,6 +35,10 @@ public class Square implements Comparable {
         this.piece = piece;
     }
 
+    public String getPosition() {
+        return columnIndicator.getDisplayValue() + rowIndicator.getDisplayValue();
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
